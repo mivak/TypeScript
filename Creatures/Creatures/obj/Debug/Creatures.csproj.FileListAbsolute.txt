@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript OOP\TypeScript\Creatures\Creatures\obj\Debug\Creatures.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript OOP\TypeScript\Creatures\Creatures\bin\Creatures.dll.config
+C:\TelerikAcademy\JavaScript OOP\TypeScript\Creatures\Creatures\bin\Creatures.dll
+C:\TelerikAcademy\JavaScript OOP\TypeScript\Creatures\Creatures\bin\Creatures.pdb
+C:\TelerikAcademy\JavaScript OOP\TypeScript\Creatures\Creatures\obj\Debug\Creatures.dll
+C:\TelerikAcademy\JavaScript OOP\TypeScript\Creatures\Creatures\obj\Debug\Creatures.pdb
